@@ -1,0 +1,150 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Capela da Ala Bairu - 565-4963
+
+### Title
+tour.name = Bairu
+
+## Skin
+
+### Button
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0.label = UNIDADE - INFO
+Button_1B998D00_16C4_0505_41AD_67CAA4AAEFE0_mobile.label = INFO
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMA LIST
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52.label = FM RESPONSAVEL
+Button_1B9A3D00_16C4_0505_41B2_6830155B7D52_mobile.label = FM RESPONS.
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = SITEPLAN
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = SITEPLAN
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4.label = PHOTOALBUM
+Button_1B9A5D00_16C4_0505_41B0_D18F25F377C4_mobile.label = PHOTOS
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98.label = LOCALIZAÇAO
+Button_1B9A6D00_16C4_0505_4197_F2108627CC98_mobile.label = LOCALIZAÇÃO
+Button_221B5648_0C06_E5FD_4198_40C786948FF0.label = lorem ipsum
+Button_221B5648_0C06_E5FD_4198_40C786948FF0_mobile.label = lorem ipsum
+
+### Multiline Text
+HTMLText_0B42C466_11C0_623D_4193_9FAB57A5AC33.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.76vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7.322404371584699vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.32vh;font-family:'Bebas Neue Bold';">FM JUIZ DE FORA</SPAN></SPAN></DIV></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.590163934426229vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:4.59vmin;font-family:'Bebas Neue Bold';">CARLOS SILVA</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.060109289617486vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.06vmin;font-family:'Bebas Neue Bold';">FM JUIZ DE FORA</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.51vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.513661202185792vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.51vmin;font-family:'Bebas Neue Bold';">CELULAR FM: (32) 98513-3988</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.513661202185792vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.51vmin;font-family:'Bebas Neue Bold';">TELEFONE ESCRITORIO: (32) 3025-3472</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.513661202185792vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.51vmin;font-family:'Bebas Neue Bold';">SILVACAB@CHURCHOFJESUSCHRIST.ORG</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.51vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_0B4B0DC1_11C0_6277_41A4_201A5BB3F7AE_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.05vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:10.05vmin;font-family:'Bebas Neue Bold';">carlos silva</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.23vmin;font-family:'Bebas Neue Bold';">fm juiz de fora</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.28vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">celular fm: (32) 98513-3988</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">telefone escritório: (32) 3025-3472</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.59vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:4.59vmin;font-family:'Bebas Neue Bold';">silvacab@churchofjesuschrist.org</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.759999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.76vmin;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.670000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">locaLIDADE</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.86vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">RUA maria perpetua,44 , ladeira, juiz de fora-mg</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">A dedicação da capela foi em 09/10/2005.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.42vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.42vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.42vmin;">Responsabilidade do FM Juiz de Fora.</SPAN></SPAN></DIV></div>
+HTMLText_221B6648_0C06_E5FD_41A0_77851DC2C548_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.05vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.05vmin;font-family:'Bebas Neue Bold';">locaLIZAÇÃO</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">RUA JOSÉ MÁXIMO RIBEIRO, 26, COLETY</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">MURIAÉ-MG</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">A nova locação foi entregue em 28 de Outubro de 2020, recebida pelo Presidente do Distrito e da Missão.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Obra realizada pelo PM Oto Moura.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Responsabilidade do FM Juiz de Fora</SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8.524590163934421vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.52vmin;font-family:'Bebas Neue Bold';">ALA BAIRU</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:3.0601092896174844vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.06vmin;font-family:'Bebas Neue Bold';">RUA MARIA PERPETUA, 44, LADEIRA, JUIZ DE FORA-mg</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8251366120218573vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.83vmin;font-family:'Bebas Neue Bold';">________________________________</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:6.670000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.67vmin;font-family:'Bebas Neue Bold';">BISPO RAFAEL GALHANO</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:4.590163934426228vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:4.59vmin;font-family:'Bebas Neue Bold';">ALA BAIRU</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:4.590163934426228vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:4.59vmin;font-family:'Bebas Neue Bold';">ESTACA JUIZ DE FORA</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.39vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.39vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.39vmin;font-family:'Bebas Neue Bold';">dados de contato:</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Celular: (32) 98853-7411</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>rgalhano@gmail.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;font-family:'Bebas Neue Bold';"><B>Endereço: R. Gilson Silveira, 127, Santa Cândida, Juiz de Fora - MG</B></SPAN></SPAN></DIV></div>
+HTMLText_23F067B8_0C0A_629D_41A9_1A1C797BB055_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:10vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10vmin;font-family:'Bebas Neue Bold';">Bispo rafael galhano</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:6.111111111111111vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:6.11vmin;font-family:'Bebas Neue Bold';">ala bairu</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:6.111111111111111vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:6.11vmin;font-family:'Bebas Neue Bold';">estaca juiz de fora</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:6.11vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:6.230000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:6.23vmin;font-family:'Bebas Neue Bold';">DADOS DE CONTATO:</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.09vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.8888888888888866vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;font-family:'Bebas Neue Bold';"><B>Celular: (32) 98853-7411</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8888888888888866vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;font-family:'Bebas Neue Bold';"><B>rgalhano@gmail.com</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8888888888888866vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.89vmin;font-family:'Bebas Neue Bold';"><B>Endereço: R. Gilson Silveira, 127, Santa Cândida, Juiz de Fora - MG</B></SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">fotos aéreas:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.26vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">siteplan:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_5FB4080E_650D_8C25_41D1_1E48AFF08765.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:40px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:40px;font-family:'Bebas Neue Bold';"><B>BAIRU</B></SPAN></SPAN></DIV></div>
+HTMLText_665A70D1_7463_F253_41B8_A7B8050EB956.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:25px;font-family:'Bebas Neue Bold';"><B>BAIRU</B></SPAN></SPAN></DIV></div>
+HTMLText_D24F3212_CC67_09CB_41DD_CF4498C2E2AA_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.26vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">fotos aereas:</SPAN></SPAN></DIV></div>
+HTMLText_D37E032F_CC65_0FD9_41DA_B3AFF4109A03.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.14vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">SITEPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_EA4506F7_FDA0_5CF1_41C2_BF883C7259BF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.61vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+
+### Label
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = church view
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = CHURCH VIEW
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2.text = FM JUIZ DE FORA - REGIÃO CENTRAL
+Label_0DD1AF09_1744_0507_41B4_9F5A60B503B2_mobile.text = FM JUIZ DE FORA - REGIÃO CENTRAL
+
+## Media
+
+### Title
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303.label = Fotos Aéreas
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_0.label = DJI_0010
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_1.label = DJI_0011
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_10.label = DJI_0075
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_11.label = DJI_0076
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_12.label = DJI_0077
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_13.label = DJI_0078
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_14.label = DJI_0079
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_2.label = DJI_0012
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_3.label = DJI_0013
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_4.label = DJI_0014
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_5.label = DJI_0015
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_6.label = DJI_0069
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_8.label = DJI_0071
+album_809DFF00_9A0D_DB19_41CD_51BFE1534303_9.label = DJI_0074
+map_DF810584_C546_61A9_41D6_44E9EB181514.label = SitePlan
+panorama_7263B12C_79FE_A735_41D6_04C56A20DAFD.label = Banheiro Feminino (1)
+panorama_748EA837_79FD_E513_4181_36B3ABABF577.label = Banheiro Masculino (3)
+panorama_749831C7_79FE_E773_41B5_77B281DC0DBC.label = Banheiro Masculino (1)
+panorama_74B04323_79F5_EB33_41CF_BEBFEE51D35E.label = Depósito FM
+panorama_74B8C77E_79FF_AB15_41DB_315D9C6F99FF.label = Banheiro Feminino (3)
+panorama_74C98BF6_79FF_5B15_41A6_7DDA3923469A.label = Banheiro Feminino (4)
+panorama_74D19ABF_79FD_6513_41BA_E6F8D861B565.label = Biblioteca
+panorama_74F794AC_79FE_AD35_41D8_357ADD74028F.label = Banheiro Feminino (2)
+panorama_74F79D8A_79FA_FFFD_41DC_9395EFDEF179.label = Bispado 1
+panorama_74F97182_79FB_67ED_41CD_B752CA59940A.label = Bispado 2
+panorama_74FC7A07_79F7_A4F3_41D5_D7C67A69FD2E.label = Cozinha
+panorama_75009707_79FB_ECF3_41A0_9A8C52C5F791.label = Corredor (1)
+panorama_75087068_79F5_653D_41D2_B9642643F6C9.label = Cultural (2)
+panorama_7521455B_79FD_6F13_41CA_55B2FE6D8CCF.label = Banheiro Masculino (2)
+panorama_75278D7A_79F6_DF1D_41D8_3B2B20159DF0.label = Cultural (1)
+panorama_76E7C6B2_7A0D_ED2D_41DD_BBB7EC7FCBBC.label = Fraldário
+panorama_76F5A75F_7A1E_AB13_4196_AD24A1B87FB5.label = Zeladoria
+panorama_76F69DF1_7A1A_BF2F_41DE_7FE977475089.label = Sala 10
+panorama_76F6A5F2_7A0B_AF2D_41D5_81D640B7EBFD.label = PNE (1)
+panorama_770D47FB_7A1B_AB13_41D9_E3A971B499A4.label = Sala 06
+panorama_7713AC3D_7A15_7D17_41DA_7966E7E6708D.label = Sala 01
+panorama_7721C1DB_7A15_E713_41DC_F0A4401437CD.label = Sala 03
+panorama_772AED8A_7A17_5FFD_41B2_8DAAB0E649F5.label = Sacramental (5)
+panorama_772BC9A5_7A0A_A737_41D4_9AADF7CEE2EF.label = PNE (2)
+panorama_77324478_7A17_6D1D_41C2_680F3B365A1A.label = Sacramental (7)
+panorama_773390EE_7A17_E535_41D4_EE59474D797C.label = Sacramental (6)
+panorama_773A59E3_7A16_A733_41BD_FDE05FBA36A7.label = Sacramental (4)
+panorama_77402016_7A15_A515_41CC_C258979890A6.label = Sacramental (2)
+panorama_77409D5A_7A0A_BF1D_41DD_0025613CD819.label = Sacramental (1)
+panorama_774F6194_7A1D_A715_41C5_9B51B92CFB8E.label = Secretaria 2
+panorama_7754909B_7A1D_A513_41B0_CF852CB816E8.label = Secretaria 1
+panorama_77683B38_7A1A_BB1D_41D2_DCBE76F1F984.label = Sala 07
+panorama_777F85AF_7A15_AF33_41B1_B5C7D8DB051F.label = Sacramental (3)
+panorama_77E43D2D_7A15_5F37_41D2_F44AE4CCD1EB.label = Sala 04
+panorama_A4B16389_BCC2_FA03_41CA_4AED02D298BB.label = Corredor (5)
+panorama_A514CC77_BCC2_8E0E_41D2_496E17102A1F.label = Corredor (6)
+panorama_A75E0D98_BCC6_8E02_41D0_BEE46745F547.label = Corredor (3)
+panorama_A77D4B65_BCC7_8A03_41E0_5C544FC30346.label = Corredor (4)
+panorama_AA2D9B90_BCFE_8A01_41E7_AC31D7FA14F4.label = Corredor (2)
+panorama_AAA4A74B_BCC6_FA07_41B4_955AFD151F87.label = Corredor (7)
+panorama_AAD48FFD_BCC2_8A02_41E5_358CADF1107B.label = Corredor (8)
+panorama_ACE40529_BDC3_7E03_41E4_0632E7D47C92.label = Sacramental (8)
+panorama_C24C3361_CC27_0E49_41E3_2B67FACD0A3D.label = Entrada (1)
+panorama_C2D7B9D5_CC2B_FA49_41C2_2DFEAC5A28B1.label = Entrada (2)
+panorama_C3D2AE0A_CC2D_19DB_41D8_773230C5FED9.label = Entrada (3)
+panorama_C3E8D127_CC2F_0BC9_41CA_2A4BC3F687B5.label = Jardim Frente (2)
+panorama_D126804F_CC1B_0A59_41BD_600F9FDBDB1C.label = Foyer
+panorama_D1D0E86F_CC67_1A59_41E8_DC35C5D1D999.label = Jardim Frente (1)
+panorama_D447F121_CC7D_0BC9_41E7_2866A47B237A.label = Sala 05 (2)
+panorama_D551007E_CC7D_0A3B_41D6_9768C41F9345.label = Jardim Frente (3)
+panorama_D582E6C1_CC67_1649_41D0_20EC824975E7.label = Pia Batismal (1)
+panorama_D83EDADD_CC67_1E79_41E3_FBF9BA63D70B.label = Jardim Fundos (1)
+panorama_D8EDE08B_CC65_0AD8_41A7_5FF5468BF085.label = Jardim Fundos (2)
+panorama_D93BA82E_CC65_19DB_41E5_DEE0C4E36CCF.label = Jardim Fundos (3)
+panorama_DA8F470B_CC1D_17D9_41E5_0A88788A94EC.label = Jardim Fundos (4)
+panorama_DAF16225_CC6F_09C9_41D5_453BCAEC8408.label = Jardim Lateral
+panorama_DB3336EB_CC65_1659_41D8_C20FADBBA0C9.label = Pia Batismal (3)
+panorama_DBAD1124_CC7D_0BCF_41D3_7E747DC4F9D1.label = Sala 05 (1)
+panorama_DBFBFC61_CC67_1A49_41CD_D83D1778F2D8.label = Pia Batismal (2)
+panorama_DC4EF3AC_CC2B_0EDF_41E4_3334A874E7C0.label = Estacionamento (3)
+panorama_DC9644D0_CC25_0A47_41DB_1F23C5F24179.label = Estacionamento (2)
+panorama_DCBAB9F5_CC2D_1A49_41C8_21B66DF161F8.label = Terreno Excedente
+panorama_DD244DEC_CC1B_FA5F_41E7_FE3EF06C4E76.label = Estacionamento (1)
+panorama_DE51F3E5_CC1D_0E49_41CC_29254659D4E2.label = Estacionamento
+panorama_DFE7504C_CC1D_0A5F_41E2_4359F9DC0D03.label = Jardim Fundos
+
+## Popup
+
+### Body
+htmlText_AA5938F3_BDC1_B607_41BD_6F36D42AB28D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:0.8333333333333334vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Georgia, serif;">Rua Maria Perpetua, 44, Ladeira, Juiz de Fora-MG - 36052-560</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.8333333333333334vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Georgia, serif;"/></SPAN></DIV><DIV STYLE="text-align:left;font-size:0.8333333333333334vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:Georgia, serif;">Ala Bairu 275204 - Estaca Juiz de Fora</SPAN></SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_E64F41F5_C4C1_A16B_41DC_A30104C93C3F.title = CAPELA DE BAIRU
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_AA22F41D_8A0B_4D2B_41B1_6C6BB83285DC.url = //www.youtube.com/embed/XX4YrLBemgM?v=XX4YrLBemgM&feature=youtu.be
+PopupWebFrameBehaviour_ABBD548C_8A1E_CD28_41DA_AEE20573F591.url = //www.youtube.com/embed/XX4YrLBemgM?v=XX4YrLBemgM&feature=youtu.be
