@@ -1,8 +1,8 @@
 {
  "name": "Bairu",
  "description": "Capela da Ala Bairu - 565-4963",
- "start_url": "index.htm",
  "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen",
- "background_color": "#FFFFFF"
+ "start_url": "index.htm",
+ "display": "fullscreen"
 }
