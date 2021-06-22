@@ -1,8 +1,9 @@
 {
  "name": "Bairu",
+ "start_url": "index.htm",
  "description": "Capela de Bairu - 565-4963",
- "theme_color": "#FFFFFF",
  "background_color": "#FFFFFF",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -40,6 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
  "display": "fullscreen"
 }
